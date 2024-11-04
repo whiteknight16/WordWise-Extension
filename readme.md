@@ -1,4 +1,4 @@
-## Problem Addresal
+## Problem addressal
 
 If you are using this extension you might see some error occurred instead of quote
 This is because the API being used for fetching the quote doesn't follow HTTPS protocol instead it does use HTTP so browser is blocking the request
